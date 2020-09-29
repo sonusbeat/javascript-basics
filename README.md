@@ -105,3 +105,23 @@
 5. Count Occurrences Exercise
 6. Get Max Exercise
 7. Movies Exercise
+
+## Arrays
+
+1. Functions vs Expressions
+2. Hoisting
+3. Arguments
+4. Rest Operator
+5. Default Parameters
+6. Getters and Setters
+7. Try and Catch
+8. Local and Catch
+9. Let vs Var
+10. "this" Keyword
+11. Chaining "this"
+
+### Arrays Exercises
+
+1. Sum Arguments
+2. Area of Cicle
+3. Error Handling
